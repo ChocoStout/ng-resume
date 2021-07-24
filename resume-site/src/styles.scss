@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootswatch/dist/slate/_variables"; /*Lumen*/
+@import "~bootstrap/scss/bootstrap";
+@import "~bootswatch/dist/slate/_bootswatch";
+
+html {
+  font-family: "JetBrains Mono", monospace;
+}
